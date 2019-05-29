@@ -1,3 +1,4 @@
-# deciphering debris-flow seismograms
+# Deciphering debris-flow seismograms
 
-* will contain data and code used for Wenner et al, submitted
+* jupyter notebook to reproduce main figures of Wenner et al., submitted (DFHM7 conference paper)
+* "material" directory contains data and information shown in the figures
